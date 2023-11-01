@@ -1,8 +1,8 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  site-url: "https://bits2nats.rajpatil.dev"
   navbar:
     pinned: true
     left:
@@ -44,3 +44,5 @@ format:
     css: styles.css
     fontsize: 1.1em
     linestretch: 1.7
+execute:
+  freeze: auto
