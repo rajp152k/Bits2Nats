@@ -19,5 +19,6 @@ Hey there, This is Raj.
 I plan on being proficient in the domain of Machine Learning and know that writing is a satisfying and tested path to competence. This is quite an important part of my intellectual pursuits and as with anything, I'd like to be good at it. I do realize that there'll always be quite a long way to go. This is all the more reason to document the path that I take for fellow travellers. I won't be infusing a lot of personal style into the content that I post here (well, not as much as I'm naturally inclined to).
 
 
-If you'd like to know more about me and my epistemological pursuits as a whole, have a look at my [root site](https://rajpatil.dev)
+If you'd like to know more about me and my epistemological pursuits as a whole, have a look at my [root site](https://rajpatil.dev).
+I also like to ramble a lot and if you're into that kind of stuff, check out my [brain dump](https://buffer.rajpatil.dev)
 
