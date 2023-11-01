@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Author
+        text: Raj Patil
       - href: https://rajpatil.dev/resume
         text: Résumé
     right:
