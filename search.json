@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Raj Patil",
+    "objectID": "posts/init/Datum To Nat.html",
+    "href": "posts/init/Datum To Nat.html",
+    "title": "Datum To Nat",
     "section": "",
-    "text": "Hey there, This is Raj.\nI plan on being proficient in the domain of Machine Learning and know that writing is a satisfying and tested path to competence. This is quite an important part of my intellectual pursuits and as with anything, I’d like to be good at it. I do realize that there’ll always be quite a long way to go. This is all the more reason to document the path that I take for fellow travellers. I won’t be infusing a lot of personal style into the content that I post here (well, not as much as I’m naturally inclined to).\nIf you’d like to know more about me and my epistemological pursuits as a whole, have a look at my root site"
+    "text": "print(\"init jupyter notebook post to test out computation freeze\")\n\ninit jupyter notebook post to test out computation freeze"
   },
   {
     "objectID": "index.html",
@@ -14,10 +14,10 @@
     "text": "Datum To Nat\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/init/Datum To Nat.html",
-    "href": "posts/init/Datum To Nat.html",
-    "title": "Datum To Nat",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Raj Patil",
     "section": "",
-    "text": "print(\"init jupyter notebook post to test out computation freeze\")\n\ninit jupyter notebook post to test out computation freeze"
+    "text": "Hey there, This is Raj.\nI plan on being proficient in the domain of Machine Learning and know that writing is a satisfying and tested path to competence. This is quite an important part of my intellectual pursuits and as with anything, I’d like to be good at it. I do realize that there’ll always be quite a long way to go. This is all the more reason to document the path that I take for fellow travellers. I won’t be infusing a lot of personal style into the content that I post here (well, not as much as I’m naturally inclined to).\nIf you’d like to know more about me and my epistemological pursuits as a whole, have a look at my root site. I also like to ramble a lot and if you’re into that kind of stuff, check out my brain dump"
   }
 ]
