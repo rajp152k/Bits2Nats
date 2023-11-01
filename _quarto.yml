@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   navbar:
     pinned: true
@@ -36,6 +37,8 @@ website:
         href: https://rajpatil.dev/i-know-not/
   page-navigation: true
   page-footer: "Copyright 2023, Raj Patil"
+execute:
+  freeze: auto
 format:
   html:
     theme: 
@@ -44,5 +47,3 @@ format:
     css: styles.css
     fontsize: 1.1em
     linestretch: 1.7
-execute:
-  freeze: auto

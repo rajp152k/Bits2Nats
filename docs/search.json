@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/init/Datum To Nat.html",
+    "href": "posts/init/Datum To Nat.html",
+    "title": "Datum To Nat",
+    "section": "",
+    "text": "print(\"init jupyter notebook post to test out computation freeze\")\n\ninit jupyter notebook post to test out computation freeze"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Raj Patil",
