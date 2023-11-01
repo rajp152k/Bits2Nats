@@ -1,1 +1,1 @@
-Sitemap: https://rajpatil.dev/Bits2Nats/sitemap.xml
+Sitemap: https://github.com/rajp152k/Bits2Nats/sitemap.xml
