@@ -36,7 +36,7 @@ website:
         text: I know not ...
         href: https://rajpatil.dev/i-know-not/
   page-navigation: true
-  page-footer: "Copyright 2023, Raj Patil"
+  page-footer: "Copyright 2024, Raj Patil"
 execute:
   freeze: auto
 format:
